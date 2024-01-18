@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.App{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.Paragraphe{
+  font-weight: bold;
+  font-size:  45px;
+}
